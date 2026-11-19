@@ -17,6 +17,6 @@ public class App {
         // because main did not have a custom greeting, and
         // the customized greeting branch did.
 
-        System.out.println("Goodbye, " + name + "!");
+        System.out.println("Goodbye " + name + "!");
     }
 }
