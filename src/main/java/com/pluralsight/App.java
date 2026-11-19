@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter your name: ");
+        System.out.println("Please enter your name: ");
         String name = scanner.nextLine();
 
         System.out.println("Hello, " + name + "!");
@@ -16,5 +16,7 @@ public class App {
         // when you switch back and forth between the branches
         // because main did not have a custom greeting, and
         // the customized greeting branch did.
+
+
     }
 }
