@@ -16,5 +16,7 @@ public class App {
         // when you switch back and forth between the branches
         // because main did not have a custom greeting, and
         // the customized greeting branch did.
+
+        System.out.println("Goodbye, " + name + "!");
     }
 }
